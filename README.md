@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @devzana
+- 👀 I’m interested in Mobile and Web Development
+- 🌱 I’m currently learning Fullstack technologies
