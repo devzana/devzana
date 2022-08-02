@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/devzana/devzana/blob/main/GitHub%20Cover.png"/>
+  <img src="https://github.com/devzana/devzana/blob/main/Cover.png?raw=true"/>
 </p>
